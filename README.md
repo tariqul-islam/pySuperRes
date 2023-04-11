@@ -1,2 +1,2 @@
 # pySuperRes
-This package perform superresolution
+This package performs superresolution
